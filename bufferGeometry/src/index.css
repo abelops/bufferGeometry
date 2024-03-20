@@ -1,0 +1,11 @@
+#canvas{
+  height: 100vh !important;
+  width: 100vw !important;
+}
+.bod{
+  height: 100% !important;
+  width: 100% !important;
+}
+body{
+  height: 100vh;
+}
